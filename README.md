@@ -1,9 +1,9 @@
 # project-template
 ## problem
 what question are you answering, and why does it matter ?
-##Data
+## Data
 source, size , period , main columns.
-##method
+## method
 tools(pyth, sql) and main steps.
 ## results 
 key number and charts 
